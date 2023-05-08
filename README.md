@@ -1,5 +1,12 @@
-# Hello
+# Hi!👋
 > Welcome to my Github page!
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Patrik119HUN)](https://github.com/anuraghazra/github-readme-stats)
+---
+# About me👨
+> I'm Tukacs Patrik. Student in University of Szeged. Currently learning Computer Science Engineering.
+> I love listening to music and podcast🎧,
+> reading books,📖
+> and ambitious about coding.💻
 ---
 ## Technologies I use
 <div style="display:inline_block;">
